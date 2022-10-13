@@ -1,7 +1,7 @@
 ### HTML5 e CSS3 parte 1: crie uma página da Web
     Curso da formação: Iniciante em programação, Da Alura :p
 
-#### Conteúdo da AULA 01:
+#### Conteúdo da AULA 02:
 
 ###
     - A definir a estrutura básica do HTML;
