@@ -1,28 +1,22 @@
 ### HTML5 e CSS3 parte 1: crie uma página da Web
     Curso da formação: Iniciante em programação, Da Alura :p
 
-#### Vimos na AULA 03:
+#### Anotações da AULA 04:
 
 ###
-    - A mexer na apresentação dos textos:
-        *No alinhamento deles (text-align);
-        *No tamanho da fonte (font-size);
-        *Na cor de fundo (background);
-        *Na cor do texto (color).
-
-    - CSS inline:
-        Na linha onde temos a nossa tag, adicionamos a propriedade do CSS.
-
-    - A tag <style>:
-        Dentro da tag, podemos colocar marcações de CSS referentes aos elementos que temos no nosso HTML.
+    - Como reestruturar o nosso código, removendo os CSS inline e colocando-os no arquivo CSS externo;
     
-    - A apresentação do CSS com um arquivo externo;
+    - Como criar um identificador para marcar especificamente um elemento:
+        *Como fazer referência a esse identificador no CSS.
 
-    - Como funciona o estilo em cascata do CSS;
+    - Como adicionar uma imagem à nossa página;
+
+    - Como ajustar a altura do elemento, através da propriedade height;
     
-    - Como importar um arquivo externo de CSS dentro da nossa página HTML;
+    - Como ajustar a largura do elemento, através da propriedade width;
 
-    - Como representar cores no CSS;
-        *Através do nome da cor;
-        *Através do seu hexadecimal;
-        *Através do seu RGB.                            
+    - Como ajustar o espaçamento interno do elemento, através da propriedade padding;
+
+    - Como ajustar o espaçamento externo do elemento, através da propriedade margin;
+
+    - Como se comporta um time de front-end hoje em dia.
