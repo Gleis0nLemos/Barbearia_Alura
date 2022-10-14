@@ -1,12 +1,13 @@
-### HTML5 e CSS3 parte 1: crie uma página da Web
+### HTML5 e CSS3 parte 2: posicionamento, listas e navegação
     Curso da formação: Iniciante em programação, Da Alura :p
 
-#### Anotações da AULA 06:
+#### Vimos na AULA 07:
 
 ###
-    - O conceito de cabeçalho da página e como criá-lo;
+    - Uma introdução ao projeto do treinamento;
 
-    - Que o cabeçalho da página deve ter mais destaque;
+    - Uma revisão do conteúdo aprendido no treinamento anterior;
 
-    - Que não é recomendado criar estilos usando tags:
-        *O ideal é usarmos classes para tudo.
+    - Uma revisão da base de uma página HTML;
+
+    - Lista HTML não ordenada.
