@@ -1,15 +1,11 @@
 ### HTML5 e CSS3 parte 2: posicionamento, listas e navegação
     Curso da formação: Iniciante em programação, Da Alura :p
 
-#### Observamos na AULA 08:
+#### Anotações da AULA 09:
 
 ###
-    - A criar links para outras páginas, sejam elas do nosso projeto ou páginas externas;
+    - Como remover os estilos que o navegador cria automaticamente;
 
-    - Um reforço aos estilos inline e block;
+    - Como funciona os posicionamentos static, relative e absolute dos elementos;
 
-    - Como transformar o texto para ter todas as letras maiúsculas;
-
-    - Como deixar o texto em negrito com CSS;
-
-    - Como remover a decoração do texto.
+    - Como posicionar o cabeçalho da nossa página;
