@@ -1,11 +1,13 @@
 ### HTML5 e CSS3 parte 2: posicionamento, listas e navegação
     Curso da formação: Iniciante em programação, Da Alura :p
 
-#### Anotações da AULA 09:
+#### Pontos altos da AULA 10:
 
 ###
-    - Como remover os estilos que o navegador cria automaticamente;
+    - A tag main, para o conteúdo principal da nossa página;
 
-    - Como funciona os posicionamentos static, relative e absolute dos elementos;
+    - A criar listas complexas, com títulos, imagens e parágrafos;
+    
+    - A utilizar o inline-block;
 
-    - Como posicionar o cabeçalho da nossa página;
+    - A praticar e estilizar o conteúdo principal da nossa página.
