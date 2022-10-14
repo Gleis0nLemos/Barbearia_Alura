@@ -6,13 +6,17 @@ body {
     width: 100%;
 }
 
+.titulo-pricipal {
+    padding-left: 20px;
+}
+
 .principal{
     background: #CCCCCC;
     padding: 30px;
 }
 
-h1 {
-    text-align: center
+.titulo-centralizado {
+    text-align: center;
 }
 
 p {
@@ -30,10 +34,6 @@ em strong {
 .beneficios {
     background: #FFFFFF;
     padding: 20px;
-}
-
-h2 {
-    text-align: center;
 }
 
 ul {
