@@ -1,22 +1,17 @@
 ### HTML5 e CSS3 parte 1: crie uma página da Web
     Curso da formação: Iniciante em programação, Da Alura :p
 
-#### Anotações da AULA 04:
+#### O que aprendi na AULA 05:
 
 ###
-    - Como reestruturar o nosso código, removendo os CSS inline e colocando-os no arquivo CSS externo;
-    
-    - Como criar um identificador para marcar especificamente um elemento:
-        *Como fazer referência a esse identificador no CSS.
+    - A trabalhar com listas não-ordenadas e listas ordenadas:
+        Para cada um dos itens da lista, utilizamos a tag <li>.
 
-    - Como adicionar uma imagem à nossa página;
+    - O conceito das classes no CSS:
+        Elas servem para marcar itens, que são repetíveis.
 
-    - Como ajustar a altura do elemento, através da propriedade height;
-    
-    - Como ajustar a largura do elemento, através da propriedade width;
+    - Como referenciar uma classe no CSS;
 
-    - Como ajustar o espaçamento interno do elemento, através da propriedade padding;
+    - Divisões de conteúdo, utilizando a tag <div>;
 
-    - Como ajustar o espaçamento externo do elemento, através da propriedade margin;
-
-    - Como se comporta um time de front-end hoje em dia.
+    - Os comportamentos inline e block;
