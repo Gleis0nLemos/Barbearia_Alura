@@ -1,21 +1,21 @@
 ### HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas
     Curso da formação: Iniciante em programação, Da Alura :p
 
-#### Anotações da AULA 15:
+#### O que vi na AULA 16:
 
 ###
-    - A criar um formulário HTML:
-        A tag que o representa é a <form>; 
+    - O textarea, para entradas de texto de mais de uma linha;
 
-    - A tag <input>, para a entrada de dados do usuário;
+    - O input do tipo radio;
 
-    - A criar uma etiqueta para o input, com a tag <label>;
+    - Como agrupar vários input do tipo radio, impedindo que mais de um input seja selecionado;
 
-    - A conectar um input com o seu label:
-        Colocamos um id para o input e associamos esse id ao atributo for do label;
-        
-    - Alguns tipos de input, como text e submit;
+    - O input do tipo checkbox;
 
-    - Que label possui o display inline e o input possui display inline-block;
+    - Que podemos criar um input dentro de um label, assim associando-os;
 
-    - A estilizar o nosso formulário;
+    - Mais estilizações para a nossa página;
+
+    - Como funciona a hierarquia no CSS;
+
+    - O select, que é seletor, um campo de seleção de um item, e o option, que representa cada opção do seletor.
