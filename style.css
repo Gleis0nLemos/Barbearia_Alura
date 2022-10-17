@@ -78,18 +78,6 @@ nav a:hover {
     margin-top: 10px;
 }
 
-footer {
-    text-align: center;
-    background: url("bg.jpg");
-    padding: 40px 0;
-}
-
-.copyright {
-    color: #FFFFFF;
-    font-size: 13px;
-    margin: 20px 0 0;
-}
-
 main {
     width: 940px;
     margin: 0 auto;
@@ -131,5 +119,32 @@ form label, form legend {
 
 .enviar:hover {
     background: darkorange;
-    transform: scale(1.05);
+    transform: scale(1.03);
+}
+
+table {
+    margin: 20px 0 40px;
+}
+
+thead {
+    background: #555555;
+    color: white;
+    font-weight: bold;
+}
+
+td, th {
+    border: 1px solid #000000;
+    padding: 8px 15px;
+}
+
+footer {
+    text-align: center;
+    background: url("bg.jpg");
+    padding: 40px 0;
+}
+
+.copyright {
+    color: #FFFFFF;
+    font-size: 13px;
+    margin: 20px 0 0;
 }
