@@ -1,21 +1,17 @@
 ### HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas
     Curso da formação: Iniciante em programação, Da Alura :p
 
-#### O que vi na AULA 16:
+#### Anotações da AULA 17:
 
 ###
-    - O textarea, para entradas de texto de mais de uma linha;
+    - Alguns tipos de inputs para celular: email, tel, number, password, date, datetime, month e search;
 
-    - O input do tipo radio;
+    - Como não permitir que um campo não seja preenchido, através do atributo required;
 
-    - Como agrupar vários input do tipo radio, impedindo que mais de um input seja selecionado;
+    - Como exibir uma sugestão de preenchimento para os campos, através do atributo placeholder;
 
-    - O input do tipo checkbox;
+    - Como deixar uma opção marcada por padrão nos nossos input radio e checkbox, através do atributo checked;
+    
+    - Como estruturar melhor o nosso código com fieldset e legend;
 
-    - Que podemos criar um input dentro de um label, assim associando-os;
-
-    - Mais estilizações para a nossa página;
-
-    - Como funciona a hierarquia no CSS;
-
-    - O select, que é seletor, um campo de seleção de um item, e o option, que representa cada opção do seletor.
+    - Como adicionar uma alternativa à imagem, descrevendo-a, com o atributo alt.
