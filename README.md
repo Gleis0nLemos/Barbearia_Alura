@@ -1,16 +1,13 @@
-### HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas
+### HTML5 e CSS3 parte 4: avançando no CSS
     Curso da formação: Iniciante em programação, Da Alura :p
 
-#### Conteúdos da AULA 19:
+#### Vimos na AULA 20:
 
 ###
-    - A criar uma tabela HTML:
-        *A tag table, que representa a tabela;
-        *A tag tr, que representa a linha da tabela;
-        *A tag td, que representa a célula da tabela;
-        *A tag thead, que representa o cabeçalho da tabela;
-        *A tag tbody, que representa o corpo da tabela;
-        *A tag th, que representa a célula do cabeçalho da tabela;
-        *A tag tfoot, que representa o rodapé da tabela;
+    - A ajustar a página principal para utilizar os mesmos padrões da página de produtos;
 
-    - A estilizar a tabela.
+    - Medidas proporcionais com CSS;
+
+    - Como funciona a flutuação dos elementos e como modificá-la, com a propriedade float do CSS;
+
+    - Como limpar o float, com a propriedade clear do CSS.
