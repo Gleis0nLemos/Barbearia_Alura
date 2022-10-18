@@ -1,13 +1,11 @@
 ### HTML5 e CSS3 parte 4: avançando no CSS
     Curso da formação: Iniciante em programação, Da Alura :p
 
-#### Vimos na AULA 20:
+#### Anotações da AULA 21:
 
 ###
-    - A ajustar a página principal para utilizar os mesmos padrões da página de produtos;
+    - A utilizar fontes externas nas nossas páginas;
 
-    - Medidas proporcionais com CSS;
+    - Como incorporar um mapa à nossa página;
 
-    - Como funciona a flutuação dos elementos e como modificá-la, com a propriedade float do CSS;
-
-    - Como limpar o float, com a propriedade clear do CSS.
+    - Como incorporar um vídeo à nossa página.
