@@ -1,14 +1,36 @@
 ### HTML5 e CSS3 parte 4: avançando no CSS
     Curso da formação: Iniciante em programação, Da Alura :p
 
-#### Aprendi na AULA 22:
+#### Anotações da AULA 23:
 
 ###
-    - A melhorar mais ainda a semântica da página principal, com novas divisões, classes, etc;
+    - Seletores avançados CSS:
+        Seletor >, para acessar os filhos de determinado elemento. 
+        Por exemplo, para acessar todos os p dentro de main:
+        ...       
+        main > p {
+        }
+        ...
+        
+        Seletor +, para acessar o primeiro irmão de determinado elemento.
+        Por exemplo, para acessar o primeiro p após um img:
+        ...
+        img + p {
+        }
+        ...
 
-    - Novas pseudo-classes;
+        Seletor ~, para acessar todos os irmãos de determinado elemento. 
+        Por exemplo, para acessar todos os p após um img:
+        ...
+        img ~ p {
+        }
+        ...
 
-    - Como aplicar um background gradiente na página;
+        Seletor not, para acessar os elementos, exceto algum. 
+        Por exemplo, para acessar todos os p dentro de main, exceto o p que tem id missao:
+        ...
+        main p:not(#missao) {
+        }
+        ...
 
-    - Pseudo-elementos.
-
+    Como fazer contas com CSS, com a propriedade calc.
