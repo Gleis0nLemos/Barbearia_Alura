@@ -1,11 +1,14 @@
 ### HTML5 e CSS3 parte 4: avançando no CSS
     Curso da formação: Iniciante em programação, Da Alura :p
 
-#### Anotações da AULA 21:
+#### Aprendi na AULA 22:
 
 ###
-    - A utilizar fontes externas nas nossas páginas;
+    - A melhorar mais ainda a semântica da página principal, com novas divisões, classes, etc;
 
-    - Como incorporar um mapa à nossa página;
+    - Novas pseudo-classes;
 
-    - Como incorporar um vídeo à nossa página.
+    - Como aplicar um background gradiente na página;
+
+    - Pseudo-elementos.
+
