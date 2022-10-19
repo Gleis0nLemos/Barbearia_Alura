@@ -1,36 +1,13 @@
 ### HTML5 e CSS3 parte 4: avançando no CSS
     Curso da formação: Iniciante em programação, Da Alura :p
 
-#### Anotações da AULA 23:
+#### O que vimos na AULA 24:
 
 ###
-    - Seletores avançados CSS:
-        Seletor >, para acessar os filhos de determinado elemento. 
-        Por exemplo, para acessar todos os p dentro de main:
-        ...       
-        main > p {
-        }
-        ...
-        
-        Seletor +, para acessar o primeiro irmão de determinado elemento.
-        Por exemplo, para acessar o primeiro p após um img:
-        ...
-        img + p {
-        }
-        ...
+    - Como manipular a opacidade dos elementos, com a propriedade CSS opacity;
+    
+    - Como manipular a opacidade das cores;
 
-        Seletor ~, para acessar todos os irmãos de determinado elemento. 
-        Por exemplo, para acessar todos os p após um img:
-        ...
-        img ~ p {
-        }
-        ...
-
-        Seletor not, para acessar os elementos, exceto algum. 
-        Por exemplo, para acessar todos os p dentro de main, exceto o p que tem id missao:
-        ...
-        main p:not(#missao) {
-        }
-        ...
-
-    Como fazer contas com CSS, com a propriedade calc.
+    - Como adicionar um sombreamento em volta dos elementos, com a propriedade CSS box-shadow;
+    
+    - Como adicionar um sombreamento em textos, com a propriedade CSS text-shadow.
