@@ -1,7 +1,6 @@
 ## Sumário de cursos/aulas:
 
 ### HTML5 e CSS3 parte 1: crie uma página da Web
-    Curso da formação: Iniciante em programação, Da Alura :p
 
 ###
     - Aula 01: Marcação do primeiro texto;
@@ -18,7 +17,6 @@
 
 
 ### HTML5 e CSS3 parte 2: posicionamento, listas e navegação
-    Curso da formação: Iniciante em programação, Da Alura :p
 
 ###
     - Aula 07: Criando uma nova página;
@@ -37,7 +35,6 @@
 
 
 ### HTML5 e CSS3 parte 3: trabalhando com formulários e tabelas
-    Curso da formação: Iniciante em programação, Da Alura :p
 
 ###
     - Aula 14: Criando uma nova página;
@@ -54,7 +51,6 @@
 
 
 ### HTML5 e CSS3 parte 4: avançando no CSS
-    Curso da formação: Iniciante em programação, Da Alura :p
 
 ###
     - Aula 20: Adaptando a página inicial;
